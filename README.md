@@ -5,5 +5,5 @@ This is an open-source project created using HTML, CSS, and Vanilla JavaScript t
 Link to Deployed Project: - https://rashmi-shree.github.io/3d-landing-page/
 ## Feedback
 
-If you have any feedback, please reach out to us at rashmidivya.shree6@gmail.com
+If you have any feedback, please reach out to me at rashmidivya.shree6@gmail.com
 
