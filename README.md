@@ -2,8 +2,31 @@
 
 This is an open-source project created using HTML, CSS, and Vanilla JavaScript to showcase 3D animations. It can be utilized for various mini projects.
 
-Link to Deployed Project: - https://rashmi-shree.github.io/3d-landing-page/
+## Demo
+ https://rashmi-shree.github.io/3d-landing-page/
+
+## Features
+
+- 3D Animation: Experience stunning 3D animations created purely with CSS.
+- Simple and Clean Code: Easy to understand and modify.
+- Open Source: Free for anyone to clone, use, and contribute to.
+
+
+## Installation
+
+git clone https://github.com/rashmi-shree/3d-landing-page.git
+
+Open the index.html file in your browser to see the application in action.
+
+    
 ## Feedback
 
-If you have any feedback, please reach out to me at rashmidivya.shree6@gmail.com
+If you have any feedback, please reach out to us at rashmidivya.shree6@gmail.com
+
+
+## Authors
+
+- [@Rashmi Shree S](https://github.com/rashmi-shree)
+
+
 
